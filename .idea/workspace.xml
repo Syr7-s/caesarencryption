@@ -4,6 +4,7 @@
     <list default="true" id="5802a9d8-52fc-4b2e-9487-22b1984683c0" name="Default Changelist" comment="CaesarEncrypt.java added two methods and first did trial.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/caesarencryption/CaesarEncrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caesarencryption/CaesarEncrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/caesarencryption/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caesarencryption/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607686216919</updated>
-      <workItem from="1607686218305" duration="2215000" />
+      <workItem from="1607686218305" duration="2920000" />
     </task>
     <servers />
   </component>
@@ -114,22 +115,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607688062774" />
-    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1607687469767">
+    <state width="1323" height="294" key="GridCell.Tab.0.bottom" timestamp="1607689010000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
-    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1607687469767">
+    <state width="1323" height="294" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607689010000" />
+    <state width="1323" height="294" key="GridCell.Tab.0.center" timestamp="1607689010000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
-    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1607687469767">
+    <state width="1323" height="294" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607689010000" />
+    <state width="1323" height="294" key="GridCell.Tab.0.left" timestamp="1607689010000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
-    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1607687469767">
+    <state width="1323" height="294" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607689010000" />
+    <state width="1323" height="294" key="GridCell.Tab.0.right" timestamp="1607689010000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
+    <state width="1323" height="294" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607689010000" />
     <state x="263" y="106" key="IDE.errors.dialog" timestamp="1607687503668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
