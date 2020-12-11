@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5802a9d8-52fc-4b2e-9487-22b1984683c0" name="Default Changelist" comment="">
+    <list default="true" id="5802a9d8-52fc-4b2e-9487-22b1984683c0" name="Default Changelist" comment="CaesarEncrypt.java added two methods and first did trial.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/caesarencryption/CaesarEncrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caesarencryption/CaesarEncrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/caesarencryption/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caesarencryption/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/IntellijJava/sezarSifreleme" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -87,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607686216919</updated>
-      <workItem from="1607686218305" duration="1222000" />
+      <workItem from="1607686218305" duration="2215000" />
     </task>
     <servers />
   </component>
@@ -96,23 +102,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="CaesarEncrypt.java added two methods and first did trial." />
+    <option name="LAST_COMMIT_MESSAGE" value="CaesarEncrypt.java added two methods and first did trial." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="434" key="GridCell.Tab.0.bottom" timestamp="1607687393293">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1607687596518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="434" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607687393293" />
-    <state width="1323" height="434" key="GridCell.Tab.0.center" timestamp="1607687393292">
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607687596518" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607688062774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="434" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607687393292" />
-    <state width="1323" height="434" key="GridCell.Tab.0.left" timestamp="1607687393291">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607688062774" />
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1607687469767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="434" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607687393291" />
-    <state width="1323" height="434" key="GridCell.Tab.0.right" timestamp="1607687393293">
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1607687469767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="434" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607687393293" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1607687469767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1607687469767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607687469767" />
+    <state x="263" y="106" key="IDE.errors.dialog" timestamp="1607687503668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1607687503668" />
   </component>
 </project>
